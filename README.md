@@ -8,7 +8,7 @@ python test.py
 ```
 An example of the result is shown below：
 
-```bash
+```
 输入提示： 江梅
 
 生成文本： 江梅桃乡行，寂行视白唱。
