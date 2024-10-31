@@ -97,7 +97,7 @@ for epoch in range(epochs):
 
 
 # 最后保存最终模型
-final_model_save_path = os.path.join(save_dir, 'trained_gpt_model_tang_poetry_seven.pth')
+final_model_save_path = os.path.join(save_dir, 'trained_gpt_model_poetry.pth')
 torch.save(model.state_dict(), final_model_save_path)
 print(f"最终模型已保存到 '{final_model_save_path}'")
 
