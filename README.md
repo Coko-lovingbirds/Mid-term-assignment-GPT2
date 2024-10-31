@@ -8,6 +8,7 @@ This is the mid-term assignment of my AI course. The training set is the poetry 
 python test.py
 </div>
 
+
 An example of the result is shown below：
 
 输入提示： 江梅
