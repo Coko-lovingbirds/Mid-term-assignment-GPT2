@@ -75,7 +75,7 @@ save_dir = './GPT2_trained'
 os.makedirs(save_dir, exist_ok=True)
 
 # 训练循环
-epochs = 200  # 由于模型较大，首先设置 epochs 为 1，可以根据需要增加
+epochs = 200  
 model.train()
 for epoch in range(epochs):
     total_loss = 0
