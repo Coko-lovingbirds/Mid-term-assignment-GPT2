@@ -41,7 +41,7 @@ class WikiTextDataset(Dataset):
 
 
 # 加载 数据集
-with open('tang_poetry_seven.txt', 'r', encoding='utf-8') as f:
+with open('poetry.txt', 'r', encoding='utf-8') as f:
     train_texts = f.readlines()
 
 
